@@ -1,2 +1,4 @@
-# dfm
-deep fusion model : towards better representation learning for multi-channel diversified data
+# DFM
+Deep fusion model : towards better representation learning with multi-channel diversified data.
+
+Descriptions to be added.
